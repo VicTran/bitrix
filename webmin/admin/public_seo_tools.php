@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/webmin/modules/seo/admin/seo_tools.php");?>

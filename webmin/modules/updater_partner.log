@@ -1,0 +1,41 @@
+2015-11-30 10:26:26 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-30 10:26:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:26:26 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN&search_module_id=&search_module=&search_category=&search_type=&search_order=ASC&search_order_by=NAME&search_page=1
+2015-11-30 10:26:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:26:26 -  - TIME SearchModulesEx(request) 0.579 sec
+2015-11-30 10:26:26 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:26:26 - GUL02 - [LICENSE_NOT_FOUND] License not found.
+2015-11-30 10:26:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2015-11-30 10:26:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:26:32 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN
+2015-11-30 10:26:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:26:33 -  - TIME GetUpdatesList(request) 0.992 sec
+2015-11-30 10:26:33 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:41:09 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-30 10:41:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:41:09 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN&search_module_id=&search_module=&search_category=&search_type=&search_order=ASC&search_order_by=NAME&search_page=1
+2015-11-30 10:41:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:41:11 -  - TIME SearchModulesEx(request) 1.355 sec
+2015-11-30 10:41:11 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:41:11 - GUL02 - [LICENSE_NOT_FOUND] License not found.
+2015-11-30 10:41:58 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-30 10:41:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:41:58 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN&search_module_id=&search_module=&search_category=&search_type=&search_order=ASC&search_order_by=NAME&search_page=1
+2015-11-30 10:41:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:41:59 -  - TIME SearchModulesEx(request) 0.561 sec
+2015-11-30 10:41:59 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:41:59 - GUL02 - [LICENSE_NOT_FOUND] License not found.
+2015-11-30 10:43:22 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-30 10:43:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:43:22 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN&search_module_id=&search_module=&search_category=&search_type=&search_order=ASC&search_order_by=NAME&search_page=1
+2015-11-30 10:43:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:43:22 -  - TIME SearchModulesEx(request) 0.712 sec
+2015-11-30 10:43:22 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:43:22 - GUL02 - [LICENSE_NOT_FOUND] License not found.
+2015-11-30 10:43:29 -  - exec CUpdateClientPartner::SearchModulesEx
+2015-11-30 10:43:29 -  - exec CUpdateClientPartner::__CollectRequestData
+2015-11-30 10:43:29 -  - utf=Y&lang=en&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=demo.dev&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=F&CLIENT_PHPVER=5.4.7&dbv=5.5.27&instm=main%2C9.5.0%2CN%3Bcompression%2C9.0.0%2CN%3Bfileman%2C9.5.1%2CN%3Biblock%2C9.5.0%2CN%3Bperfmon%2C9.1.0%2CN%3Bsearch%2C9.1.1%2CN%3Bseo%2C9.5.0%2CN%3Bsitecorporate%2C9.0.1%2CN&search_module_id=&search_module=&search_category=&search_type=&search_order=ASC&search_order_by=NAME&search_page=1
+2015-11-30 10:43:29 -  - exec CUpdateClientPartner::GetHTTPPage
+2015-11-30 10:43:30 -  - TIME SearchModulesEx(request) 0.65 sec
+2015-11-30 10:43:30 -  - exec CUpdateClientPartner::ParseServerData
+2015-11-30 10:43:30 - GUL02 - [LICENSE_NOT_FOUND] License not found.

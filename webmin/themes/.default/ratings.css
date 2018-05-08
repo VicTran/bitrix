@@ -1,0 +1,11 @@
+table.edit-table tr td.rating-component-descr { font-weight:normal; font-size:1.1em; font-family: Helvetica, Verdana, Arial, Sans-serif; }
+table.edit-table tr td.rating-component-descr p.formula { font-weight:normal; font-size:1.1em; font-family: Sans, Times; font-style:italic; padding:2px; margin:0px; border: solid 1px #D7D7D7; background-color:#FAFAFA; }
+table.edit-table tr td.rating-component-gap { margin:0; padding:0; height:2px; line-height:2px; }
+table.edit-table tr td.rating-component-td { margin:0; padding:0; }
+div.rating-component-exception {padding:5px 10px; border: 2px solid #FF0000; font-size: 70%; display:inline-block; margin-bottom: 2px;}
+table.edit-table tr.heading-left td {
+background-color:#E0E4F1;
+color:#525355;
+font-weight:bold;
+text-align:left;
+}

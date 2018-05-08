@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/webmin/modules/main/public/access_edit.php");?>

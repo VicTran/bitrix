@@ -1,0 +1,5 @@
+<?
+$MESS["ADMIN_SHOW_MODE_ON"] = "ON";
+$MESS["ADMIN_SHOW_MODE_OFF"] = "OFF";
+$MESS["ADMIN_INCLAREA_DBLCLICK"] = "Double-click";
+?>

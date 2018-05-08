@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/webmin/modules/main/admin/all_settings_index.php");?>
